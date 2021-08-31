@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/H:/Android/RememberEditText/library/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="material_blue_grey_800">#ff37474f</color>
+    <color name="material_blue_grey_900">#ff263238</color>
+    <color name="material_blue_grey_950">#ff21272b</color>
+    <color name="material_deep_teal_200">#ff80cbc4</color>
+    <color name="material_deep_teal_500">#ff009688</color>
+    <declare-styleable name="RememberEditText"><attr format="boolean" name="autoFill"/><attr format="boolean" name="autoSave"/><attr format="reference" name="dropDownIcon"/><attr format="reference" name="dropUpIcon"/><attr format="reference" name="deleteIcon"/><attr format="string" name="rememberId"/><attr format="integer" name="rememberCount"/></declare-styleable>
+    <!-- From: file:/H:/Android/RememberEditText/library/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="remember_item_height">45dp</dimen>
+    <!-- From: file:/H:/Android/RememberEditText/library/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="RememberEditTextPopupWindowAnim">
+        <item name="android:windowEnterAnimation">@anim/popup_window_show</item>
+        <item name="android:windowExitAnimation">@anim/popup_window_hide</item>
+    </style>
+</resources>

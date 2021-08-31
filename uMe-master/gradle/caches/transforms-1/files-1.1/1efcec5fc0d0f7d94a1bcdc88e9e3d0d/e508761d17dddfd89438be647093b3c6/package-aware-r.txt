@@ -1,0 +1,26 @@
+cn.zhaiyifan.rememberedittext
+anim popup_window_hide
+anim popup_window_show
+attr autoFill
+attr autoSave
+attr deleteIcon
+attr dropDownIcon
+attr dropUpIcon
+attr rememberCount
+attr rememberId
+color material_blue_grey_800
+color material_blue_grey_900
+color material_blue_grey_950
+color material_deep_teal_200
+color material_deep_teal_500
+dimen remember_item_height
+drawable drop_down_bg
+drawable ic_delete
+drawable ic_drop_down
+drawable ic_drop_up
+id popupContent
+id popupDelete
+id popupWrapper
+layout item_remember_cache_list
+style RememberEditTextPopupWindowAnim
+styleable RememberEditText autoFill autoSave deleteIcon dropDownIcon dropUpIcon rememberCount rememberId
